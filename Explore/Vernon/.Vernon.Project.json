@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "40UGqCfVUmuhMR1JYOfCUt",
+    "name" : "Vernon",
+    "type" : "Project",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-08-30T19:41:34.012Z",
+  "objectRefs" : [ ]
+}
